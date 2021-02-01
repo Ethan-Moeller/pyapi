@@ -1,6 +1,6 @@
 # pyapi (Project Title)
 
-This repo is to learn APIs and further my knowledge of data lifecycle tasks.
+This repo is to learn APIs and further my knowledge of data lifecycle tasks to support my role as a data scientist.
 
 ## Getting Started
 
